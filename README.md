@@ -1,6 +1,6 @@
 ## 안드로이드 스튜디오 플러그인
 
->> **설치방법** : File > Settings… > IDE Settings > Plugins > Browse repositories 에서 해당 플러그인 검색
+--> **설치방법** : File > Settings… > IDE Settings > Plugins > Browse repositories 에서 해당 플러그인 검색
 
     1. CodeGlance
      : 우측에 코드의 미니맵을 볼 수 있다. (SublimeText 기능와 동일)  
