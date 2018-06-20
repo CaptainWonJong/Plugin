@@ -1,4 +1,4 @@
-##안드로이드 스튜디오 플러그인
+## 안드로이드 스튜디오 플러그인
 
 >> **설치방법** : File > Settings… > IDE Settings > Plugins > Browse repositories 에서 해당 플러그인 검색
 
